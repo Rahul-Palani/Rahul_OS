@@ -59,6 +59,35 @@ npm start
 npm run build
 ```
 
+## Deployment
+
+### GitHub Pages
+
+This project is configured for deployment to GitHub Pages.
+
+1. **Update the homepage URL** in `package.json`:
+   ```json
+   {
+     "homepage": "https://YOUR_USERNAME.github.io/Rahul_OS"
+   }
+   ```
+   Replace `YOUR_USERNAME` with your actual GitHub username.
+
+2. **Deploy to GitHub Pages**:
+   ```bash
+   npm run deploy
+   ```
+
+3. **Enable GitHub Pages** in your repository:
+   - Go to your repository on GitHub
+   - Click **Settings** tab
+   - Scroll down to **Pages** in the left sidebar
+   - Under **Source**, select **"Deploy from a branch"**
+   - Choose **"gh-pages"** branch and **"/ (root)"** folder
+   - Click **Save**
+
+4. **Your site will be available at**: `https://YOUR_USERNAME.github.io/Rahul_OS`
+
 ## Project Structure
 
 ```

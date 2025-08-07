@@ -5,30 +5,23 @@ const Contact: React.FC = () => {
     {
       id: 1,
       type: "Email",
-      value: "hello@example.com",
+      value: "rpala033@ucr.edu",
       icon: "📧",
-      link: "mailto:hello@example.com"
+      link: ""
     },
     {
       id: 2,
       type: "LinkedIn",
-      value: "linkedin.com/in/yourprofile",
+      value: "https://www.linkedin.com/in/rahul-palani-22276a240/",
       icon: "💼",
-      link: "https://linkedin.com/in/yourprofile"
+      link: "linkedin.com/in/rahul-palani-22276a240/"
     },
     {
       id: 3,
       type: "GitHub",
-      value: "github.com/yourusername",
+      value: "github.com/Rahul-Palani",
       icon: "🐙",
-      link: "https://github.com/yourusername"
-    },
-    {
-      id: 4,
-      type: "Twitter",
-      value: "@yourusername",
-      icon: "🐦",
-      link: "https://twitter.com/yourusername"
+      link: "https://github.com/Rahul-Palani"
     }
   ];
 
