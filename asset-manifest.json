@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Rahul_OS/static/css/main.b03987f0.css",
-    "main.js": "/Rahul_OS/static/js/main.cb6ab76a.js",
+    "main.css": "/Rahul_OS/static/css/main.662b5736.css",
+    "main.js": "/Rahul_OS/static/js/main.39eb4b4f.js",
     "index.html": "/Rahul_OS/index.html",
-    "main.b03987f0.css.map": "/Rahul_OS/static/css/main.b03987f0.css.map",
-    "main.cb6ab76a.js.map": "/Rahul_OS/static/js/main.cb6ab76a.js.map"
+    "main.662b5736.css.map": "/Rahul_OS/static/css/main.662b5736.css.map",
+    "main.39eb4b4f.js.map": "/Rahul_OS/static/js/main.39eb4b4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b03987f0.css",
-    "static/js/main.cb6ab76a.js"
+    "static/css/main.662b5736.css",
+    "static/js/main.39eb4b4f.js"
   ]
 }
